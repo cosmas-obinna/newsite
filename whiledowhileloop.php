@@ -8,7 +8,7 @@
 </head>
 <body>
     <h2>The while and dowhile loop</h2> -- these are called the CONDITION CONTROL loops
-    -- Because they act based on a given CONDITION
+    <!-- Because they act based on a given CONDITION -->
     <h2>while loop</h2> -- this is a PRE-CONDITION loop
     <?php
         $grade = 0;
