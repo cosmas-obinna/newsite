@@ -18,7 +18,8 @@
         <li><a href="whiledowhileloop.php">while loop syntax</a></li>
         <li><a href="switchstatement.php">switch statement syntax</a></li>
         <li><a href="forloop.php">for loop syntax</a></li>
-        <li><a href="stringmanip.php">for loop syntax</a></li>
+        <li><a href="stringmanip.php">Simple String Manipulation</a></li>
+        <li><a href="datemanip.php">Date & Time Manipulation</a></li>
     </ul>
 
 <?php
