@@ -1,4 +1,4 @@
-<!<?php include 'include/link.php'?>
+<!<?php include 'Include/link.php'?>
     <h1>FOR LOOP</h1>
     <!-- For loop is sometimes refered to as a COUNTER CONTROL LOOP;
     meaning it does something for a certain number of times -->
