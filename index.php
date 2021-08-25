@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include 'include/link.php'?>
+<?php include 'Include/link.php'?>
     <h1> Hello World </h1><br/>
     <h3> This is my first php training web development.</h3><br/>
     <h3> I really hope to enjoy it. I was motivated to take this course</h3><br/>
