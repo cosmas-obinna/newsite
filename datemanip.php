@@ -18,6 +18,13 @@
         echo "Year is: ". $datenow['year']."<br/>"; // year is for the year
         // combining them to get today's date will be
         echo "Today's date is: ". $datenow['mday']."/".$datenow['mon']."/".$datenow['year'];
+
+        print date("d/m/Y g:i:s a", time()). "<br/>";
+        print date("N j of F Y, g:i:s A",time())."<br/>";
+    ?>
+    ?>
+    <?php
+        include 'include/link.php'
     ?>
     
 </body>

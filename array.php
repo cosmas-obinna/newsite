@@ -25,5 +25,8 @@
             echo "<p>$numbers[$count]</p>";
         }
     ?>
+    <?php
+        include 'include/link.php'
+    ?>
 </body>
 </html>

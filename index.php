@@ -20,6 +20,7 @@
         <li><a href="forloop.php">for loop syntax</a></li>
         <li><a href="stringmanip.php">Simple String Manipulation</a></li>
         <li><a href="datemanip.php">Date & Time Manipulation</a></li>
+        <li><a href="userdefinedfunc.php">User Defined Function</a></li>
     </ul>
 
 <?php

@@ -23,5 +23,8 @@
 
         }
     ?>
+    <?php
+        include 'include/link.php'
+    ?>
 </body>
 </html>

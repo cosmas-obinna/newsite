@@ -28,5 +28,9 @@
         '<h3 style="color: red">Poor performance!</h3>';
     }
     ?>
+    ?>
+    <?php
+        include 'include/link.php'
+    ?>
 </body>
 </html>
