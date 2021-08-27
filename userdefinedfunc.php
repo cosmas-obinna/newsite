@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>User Defined Function</title>
-</head>
-<body>
+<?php 
+    $title = 'User Defined Function';
+    include 'Include/link.php'
+?>
     <h1>User Defined Function</h1>
     <?php
         /* defining a function */

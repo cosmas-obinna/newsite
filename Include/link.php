@@ -2,7 +2,7 @@ head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Start</title>
+    <title><?php echo $title ?></title>
 </head>
 <body>
     
@@ -14,8 +14,9 @@ head>
         <li><a target = "blank" href="switchstatement.php">switch statement syntax</a></li>
         <li><a target = "blank" href="forloop.php">for loop syntax</a></li>
         <li><a target = "blank" href="stringmanip.php">Simple String Manipulation</a></li>
-        <li><a target = "blank" href="datemanip.php">Date & Time Manipulation</a></li>
-        <li><a target = "blank" href="userdefinedfunc.php">User Defined Function</a></li>
-        <li><a target = "blank" href="index.php">Start Page</a></li>
+        <li><a  href="datemanip.php">Date & Time Manipulation</a></li>
+        <li><a href="userdefinedfunc.php">User Defined Function</a></li>
+        <li><a href="index.php">Start Page</a></li>
+        <li><a href="about.php">About Page</a></li>
     </ul>
 

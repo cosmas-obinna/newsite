@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ARRAYS</title>
-</head>
-<body>
+<?php 
+    $title = 'Array';
+    include 'Include/link.php'
+?>
     <h1>Array</h1>
     <!-- variables store just one value at a time, whereas arrays store multiple values at a time -->
     <?php

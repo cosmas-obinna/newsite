@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Date and Time Manipulation</title>
-</head>
-<body>
+<?php 
+    $title = 'Date Manipultion';
+    include 'Include/link.php'
+?>
     <h1>Date and Time Maipilation in php</h1>
     <?php
         // to get a time stamp

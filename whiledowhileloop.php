@@ -1,12 +1,8 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>while and dowhile loops</title>
-</head>
-<body>
+<?php
+    $title = 'While-DoWhile Statement';
+    include 'Include/link.php'
+?>
     <h2>The while and dowhile loop</h2> -- these are called the CONDITION CONTROL loops
     <!-- Because they act based on a given CONDITION -->
     <h2>while loop</h2> -- this is a PRE-CONDITION loop

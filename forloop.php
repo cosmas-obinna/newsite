@@ -1,4 +1,7 @@
-<!<?php include 'Include/link.php'?>
+<?php
+    $title = 'For loop';
+     include 'Include/link.php'
+?>
     <h1>FOR LOOP</h1>
     <!-- For loop is sometimes refered to as a COUNTER CONTROL LOOP;
     meaning it does something for a certain number of times -->
@@ -11,7 +14,6 @@
             echo "<p> The count is: $count</p>";
         }
 
-    ?>
     ?>
     <?php
         include 'include/link.php'

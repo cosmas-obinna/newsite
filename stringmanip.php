@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>String Manipulation</title>
-</head>
-<body>
+<?php 
+    $title = 'String Manipulation';
+    include 'Include/link.php'
+?>
     <h1>String Manipulation</h1>
     <!-- in php, concatination is achieved with the use of a dot (.) -->
     <!-- concatenation of strings -->
