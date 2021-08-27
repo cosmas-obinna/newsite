@@ -1,5 +1,5 @@
 <?php 
-    $title = 'Date Manipultion';
+    $title = 'Date Manipultion Page';
     include 'Include/link.php'
 ?>
     <h1>Date and Time Maipilation in php</h1>

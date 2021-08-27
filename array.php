@@ -1,5 +1,5 @@
 <?php 
-    $title = 'Array';
+    $title = 'Array Page';
     include 'Include/link.php'
 ?>
     <h1>Array</h1>
